@@ -177,4 +177,4 @@ MIT License
 
 ## Acknowledgments
 
-This tool was developed to help developers work more effectively with large language models by providing code context in an ultra-compressed format.
+Made with ❤️ by Thaer Almadhoun (talmadhoun@gmail.com) to help developers work more effectively with large language models by providing code context in an ultra-compressed format.
